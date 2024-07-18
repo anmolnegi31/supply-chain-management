@@ -1,5 +1,5 @@
 // ManufacturerDetail.js
-import React from 'eact';
+import React from 'react';
 
 function ManufacturerDetail({ match }) {
   const id = match.params.id;

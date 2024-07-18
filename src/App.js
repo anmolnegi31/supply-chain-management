@@ -1,8 +1,8 @@
 // App.js
 import React from 'react';
 import { BrowserRouter, Route, Switch } from 'react-router-dom';
-import ManufacturerList from './ManufacturerList';
-import ManufacturerDetail from './ManufacturerDetail';
+import ManufacturerList from './components/ManufacturerList';
+import ManufacturerDetail from './components/ManufacturerDetail';
 
 function App() {
   return (
